@@ -1,0 +1,1 @@
+D:\Projects\C#\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
